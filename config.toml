@@ -1,0 +1,184 @@
+
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
+
+baseurl                 = "https://example.com/"
+DefaultContentLanguage  = "en"
+title                   = "Education, Training & Academic Support for the New Generation"
+theme                   = "hugo-future-imperfect-slim"
+paginate                = 3
+disqusShortname         = ""
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = []
+enableEmoji             = true
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[outputs]
+  home                  = ["html", "json", "rss"]
+
+[params]
+  enableCDN             = false
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = true
+  highlightjsTheme      = ""
+  highlightjsLang       = []
+  viewMorePostsLink     = "/blog/"
+  readingTime           = true
+  imageStretch          = ""
+  removeBlur            = false
+  socialShare           = ["twitter", "linkedin", "email"]
+  hideEmptyStats        = false
+
+  [params.meta]
+    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    author              = "HTML5UP and Hugo"
+    favicon             = false
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
+
+  [params.header]
+    navbarTitle         = "Home"
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = true
+    languageMenu        = true
+
+  [params.intro]
+    header                = "Education, Training & Academic Support for the New Generation"
+    paragraph             = "Mentoring, Empowerment, Equality"
+    rssIntro              = true
+    socialIntro           = true
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
+
+    [params.intro.pic]
+      src                 = "img/main/Lake.jpg"
+      shape               = "square"
+      width               = "500"
+      alt                 = "Hugo Future Imperfect Slim"
+
+  [params.sidebar]
+    about               = "This theme was developed for Hugo static site generator."
+    postAmount          = 4
+    categories          = false
+    categoriesByCount   = true
+
+  [params.footer]
+    rssFooter           = true
+    socialFooter        = true
+
+  [params.staticman]
+    enabled             = true
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
+
+[menu]
+
+  [[menu.main]]
+    name              = "Home"
+    identifier        = "home"
+    url               = "/"
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1
+
+  [[menu.main]]
+    name              = "About us"
+    identifier        = "About us"
+    url               = "/about/"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "News"
+    identifier        = "News"
+    url               = "/news/"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "A bit of Neuroscience"
+    identifier        = "A bit of Neuroscience"
+    url               = "/A-bit-of-Neuroscience/"
+    pre               = "<i class='fas fa-newspaper'></i>"
+    weight            = 4
+
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact"
+    url               = "/contact/"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 5
+
+[Languages]
+
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    weight              = 1
+
+  [Languages.es]
+    LanguageCode        = "es"
+    LanguageName        = "Espanol"
+    title               = "Hugo Future Imperfect Slim en Espanol"
+    description         = "Tutoría, Empoderamiento, Igualdad"
+    weight              = 2
+
+    [[Languages.es.menu.main]]
+      name              = "Menu Principal"
+      identifier        = "home"
+      url               = "/"
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+    [[Languages.es.menu.main]]
+      name              = "Sobre nosotros"
+      identifier        = "about"
+      url               = "/about/"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 2
+
+    [[Languages.es.menu.main]]
+      name              = "Novedades"
+      identifier        = "news"
+      url               = "/news/"
+      pre               = "<i class='far fa-newspaper'></i>"
+      weight            = 3
+
+    [[Languages.es.menu.main]]
+      name              = "Un poco de Neurociencia"
+      identifier        = "Un poco de Neurociencia"
+      url               = "/A-bit-of-Neurosciences/"
+      pre               = "<i class='fas fa-newspaper'></i>"
+      weight            = 4
+
+    [[Languages.es.menu.main]]
+      name              = "Contacto"
+      identifier        = "contact"
+      url               = "/contact/"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 5
+
+
+[social]
+  # Coding Communities
+  github                = "YacilaIsabela"
+  # Professional/Business Oriented Communities
+  linkedin              = "yacila-deza-araujo-48555236/"
+  # Social Networks
+  twitter               = "YacilaI"
+   googlescholar         = "citations?hl=en&user=GrK5HQkAAAAJ"
+  researchgate          = "Yacila_Deza-Araujo"
+
