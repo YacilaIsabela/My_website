@@ -17,7 +17,7 @@ enableEmoji             = false
   unsafe                = true
 
 [outputs]
-  home                  = ["html", "json", "rss"]
+  home                  = ["html", "json"]
 
 [params]
   enableCDN             = false
@@ -70,7 +70,7 @@ enableEmoji             = false
     categoriesByCount   = true
 
   [params.footer]
-    rssFooter           = true
+    rssFooter           = false
     socialFooter        = true
 
   [params.staticman]
@@ -139,7 +139,7 @@ enableEmoji             = false
     [Languages.es.params.intro]
       header                = "Red de Asesor&iacutea Cient&iacutefica y Educativa - REACE"
       paragraph             = "Mentor&iacutea, Empoderamiento, Igualdad "
-      rssIntro              = true
+      rssIntro              = false
       socialIntro           = true
       hideWhenSingleColumn  = false
       alwaysOnHomepage      = false
