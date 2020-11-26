@@ -5,7 +5,7 @@ author = "Yacila I. Deza-Araujo"
 date = "2020-02-28"
 layout = "About us"
 [[images]]
-  src = "img/main/author.jpg"
+  src = "./img/main/author.jpg"
   alt = "author"
   stretch = "stretchH"
 +++

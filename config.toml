@@ -52,12 +52,13 @@ enableEmoji             = false
   [params.intro]
     header                = "Network for Scientific Assessment and Education - REACE"
     paragraph             = "Mentorship, Empowerment, Equality"
+    rssIntro              = false
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/Salmuche.jpg"
+      src                 = "./img/main/Salmuche.jpg"
       shape               = "square"
       width               = "500"
       alt                 = "Hugo Future Imperfect Slim"
