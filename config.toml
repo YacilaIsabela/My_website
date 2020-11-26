@@ -4,14 +4,14 @@
 
 baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
-title                   = "Education, Training & Academic Support for the New Generation"
+title                   = "Network for Scientific Assessment and Education REACE"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
-enableEmoji             = true
+enableEmoji             = false
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -34,7 +34,7 @@ enableEmoji             = true
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "Hugo."
     author              = "HTML5UP and Hugo"
     favicon             = false
     svg                 = true
@@ -50,15 +50,14 @@ enableEmoji             = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Education, Training & Academic Support for the New Generation"
-    paragraph             = "Mentoring, Empowerment, Equality"
-    rssIntro              = true
+    header                = "Network for Scientific Assessment and Education - REACE"
+    paragraph             = "Mentorship, Empowerment, Equality"
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/Lake.jpg"
+      src                 = "img/main/Salmuche.jpg"
       shape               = "square"
       width               = "500"
       alt                 = "Hugo Future Imperfect Slim"
@@ -112,7 +111,7 @@ enableEmoji             = true
     name              = "A bit of Neuroscience"
     identifier        = "A bit of Neuroscience"
     url               = "/A-bit-of-Neuroscience/"
-    pre               = "<i class='fas fa-newspaper'></i>"
+    pre               = "<i class='fas fa-brain'></i>"
     weight            = 4
 
   [[menu.main]]
@@ -128,13 +127,28 @@ enableEmoji             = true
     LanguageCode        = "en"
     LanguageName        = "English"
     weight              = 1
-
+    
   [Languages.es]
     LanguageCode        = "es"
     LanguageName        = "Espanol"
-    title               = "Hugo Future Imperfect Slim en Espanol"
-    description         = "Tutoría, Empoderamiento, Igualdad"
+    title               = "Red de Asesoria Cientifia y Educacion"
+    description         = "Tutor?a, Empoderamiento, Igualdad"
     weight              = 2
+    
+    [Languages.es.params.intro]
+      header                = "Red de Asesor&iacutea Cient&iacutefica y Educativa - REACE"
+      paragraph             = "Mentor&iacutea, Empoderamiento, Igualdad "
+      rssIntro              = true
+      socialIntro           = true
+      hideWhenSingleColumn  = false
+      alwaysOnHomepage      = false
+
+    [Languages.es.params.intro.pic]
+      src                 = "img/main/Salmuche.jpg"
+      shape               = "square"
+      width               = "1000"
+      alt                 = ""
+
 
     [[Languages.es.menu.main]]
       name              = "Menu Principal"
@@ -145,24 +159,24 @@ enableEmoji             = true
 
     [[Languages.es.menu.main]]
       name              = "Sobre nosotros"
-      identifier        = "about"
+      identifier        = "About us"
       url               = "/about/"
       pre               = "<i class='far fa-id-card'></i>"
       weight            = 2
 
     [[Languages.es.menu.main]]
       name              = "Novedades"
-      identifier        = "news"
+      identifier        = "News"
       url               = "/news/"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 3
 
     [[Languages.es.menu.main]]
       name              = "Un poco de Neurociencia"
-      identifier        = "Un poco de Neurociencia"
-      url               = "/A-bit-of-Neurosciences/"
-      pre               = "<i class='fas fa-newspaper'></i>"
-      weight            = 4
+    identifier        = "A bit of Neuroscience"
+    url               = "/A-bit-of-Neuroscience/"
+    pre               = "<i class='fas fa-brain'></i>"
+    weight            = 4
 
     [[Languages.es.menu.main]]
       name              = "Contacto"
@@ -179,6 +193,8 @@ enableEmoji             = true
   linkedin              = "yacila-deza-araujo-48555236/"
   # Social Networks
   twitter               = "YacilaI"
-   googlescholar         = "citations?hl=en&user=GrK5HQkAAAAJ"
+  googlescholar         = "citations?hl=en&user=GrK5HQkAAAAJ"
   researchgate          = "Yacila_Deza-Araujo"
+
+
 

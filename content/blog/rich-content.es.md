@@ -9,8 +9,8 @@ tags = ["shortcodes", "privacy"]
   stretch = "Vertical"
 +++
 
-Ser un profesional de &eacute;xito no es facil. Ser un emprendedor de &eacute;xito requiere mucho esfuerzo.
-Te mostramos algunas historias de profesionales y emprendedores exitosos que nos demuestran que rendirse no est&aacute; en sus planes.
+
+Ac&aacute; te mostramos algunas historias de profesionales y emprendedores exitosos quienes nos demuestran que con perseverancia y trabajo duro todo es posible. 
 
 
 

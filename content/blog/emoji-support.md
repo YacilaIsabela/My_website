@@ -3,13 +3,14 @@ title = "How does it work?"
 description = "You find your ideal academic position, grant or prize and we will support you to complete your application"
 author = "Yacila I. Deza-Araujo"
 date = "2020-11-05"
-tags = ["emoji"]
+tags = ["support"]
 [[images]]
   src = "img/2019/03/Dresden.jpg"
   alt = "Dresden"
   stretch = "stretchH"
 +++
-*Do you need help with the motivation letter, the CV or the project proposal?*  We can freely support you.
+
+*Do you need help with the motivation letter, the CV or the project proposal?*  We can support you without any cost.
 
 **Disclaimer**: All the positions and opportunities found in this website are publicly available on the internet. We do not have any employment or academic relationship with the advertised  positions (unless stated otherwise).
 
@@ -23,13 +24,21 @@ Scholarship database for foreign students to pursue undergraduate and postgradua
 
 
 ## Academic positions
-Regulating microglia reactivity to protect the developing brain: a role for oxytocinergic neurons. [**PhD and post-doc positions in Geneva, Switzerland**](https://www.campusbiotech.ch/en/node/828)
+PhD Vacancies in the [**Erasmuss Doctoral Programme in Business and Management**](https://www.erim.eur.nl/doctoral-programme/).The application for the 2021 intake is now open! Apply before 15th of January 2021.
 
-[**Lecturer/Senior Lecturer in Cognitive Neuroscience in UK (Teaching and Scholarship)**](www.jobs.manchester.ac.uk/displayjob.aspx?isPreview=Yes&jobid=19263)
+INTERNATIONAL GRADUATE SCHOOL OF NEUROSCIENCE in Bochum, Germany. Projects in [Biomedical sciences](https://www.ruhr-uni-bochum.de/igsn/admission/phd_projects.html) 
+The online application will close January 31st, 2021.
 
-[**PhD studentship, neuroimaging and computational neuroscience**](https://jobrxiv.org/job/istituto-italiano-di-tecnologia-27778-phd-studentship-neuroimaging-and-computational-neuroscience/)
+Open positions at the [**Department of Physiology and Pharmacology**](https://ki.se/en/fyfa/department-of-physiology-and-pharmacology) at Karolinska Institute, Sweden. Deadline 06-14 of December
 
-[**Ph.D. Position in Cognitive Neuroscience with EEG in Vienna Austria**](https://drive.google.com/file/d/12XajPkF-QZRnSUuGjSUwgTvFXgAROtlu/view)
+Applications are invited for a full-time Ph.D. position (4 years), starting at the earliest on 01.01.2021 (or later by agreement), in the new research group headed by Associate Professor Valerio Izzi in the [**Faculty of Biochemistry and Molecular Medicine and the Faculty of Medicine at the university of Oulu**](https://medicinoxy.com/docoral-position-in-biochemistry-and-molecular-medicine,i11386.html). Our research projects focus on the use of big data and the development of novel data analysis systems and models to identify molecular mechanisms of disease.
+
+Check up all [**available positions**](https://www.ugent.be/en/work/vacancies/scientific) at the university of Ghent, Belgium
+
+
+
+
+
 
 
 
