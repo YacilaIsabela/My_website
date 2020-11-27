@@ -10,7 +10,6 @@ layout = "news"
 
 ## Latest opportunities
 
-Do you want to study a postgraduate program online from a German university?
+15 PhD positions in [**Molecular Quantum Simulations**](http://moqs.eu/open-positions-for-phd-candidates/) in difference European cities. Apply until the 1st of December.
 
-Register now! It will take place on the 27th of November 2020 at 10.00 (UTC-05:00) [Virtual Fair on Online Studies](https://www.daad.co/es/event/virtual-fair-on-online-studies/)
-
+2 year [**Postdoc in Machine Learning for Sequence Analysis (m/f/d)**](https://www.klinikum.uni-heidelberg.de/en/zentrum-fuer-innere-medizin-medizin-klinik/innere-medizin-iii-kardiologie-angiologie-und-pneumologie/forschung/forschung/klaus-tschira-institut-for-computational-cardiology/jobs) at the Zentrum für Innere Medizin, Klinik für Kardiologie, Angiologie, Pneumologie (Innere Medizin III), INF 669, 69120, University Hospital Heidelberg, Germany. Deadline 16 of December. 
