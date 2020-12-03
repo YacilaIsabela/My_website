@@ -24,6 +24,10 @@ Ac&aacute; les ofrezco las &uacute;ltimas oportunidades acad&eacute;micas en neu
 
 [**PhD position to conduct research in the field of cognitive control**](http://copsresearchgroup.be/uncategorized/we-are-hiring-phd/) in Leuven Belgium. Interested candidates can apply until December 15. 
 
+[**Postdoctoral position in federated deep learning for stroke imaging**](https://recrutement.chuv.ch/vacancy/postdoctoral-position-in-federated-deep-learning-for-stroke-imaging-246985.html). The three-year Advanced Stroke Analytics Platform (ASAP) project aims at developing novel deep learning techniques to drive forward the utility and use of magnetic resonance imaging for acute stroke. Application deadline: 22.12.2020
+
+2 year [**Postdoc in Machine Learning for Sequence Analysis (m/f/d)**](https://www.klinikum.uni-heidelberg.de/en/zentrum-fuer-innere-medizin-medizin-klinik/innere-medizin-iii-kardiologie-angiologie-und-pneumologie/forschung/forschung/klaus-tschira-institut-for-computational-cardiology/jobs) at the Zentrum für Innere Medizin, Klinik für Kardiologie, Angiologie, Pneumologie (Innere Medizin III), INF 669, 69120, University Hospital Heidelberg, Germany. Deadline: 16 of December. 
+
 
 
 
