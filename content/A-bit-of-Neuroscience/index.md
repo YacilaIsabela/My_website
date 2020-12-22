@@ -15,9 +15,10 @@ As a neuroscientist, I have special interest in supporting the education in brai
 Here, you will find the latest academic positions and opportunities in the field of the neurosciences
 
 
-[**Postdoctoral position in cerebellar imaging**](http://www.diedrichsenlab.org/open_postdoc.htm) in the Brain and Mind Institute at Western University in London, Ontario, Canada. The review of applications will begin December 18th, 2020 and continue until position is filled.
+At the Institute of General Psychology, Biopsychology and Methods of Psychology the Chair
+of Neuroimaging invites applications for a project position as [**Research Associate / Postdoc in Dresden, Germany**](https://tu-dresden.de/mn/psychologie/ifap/ni/ressourcen/dateien/open-position-adverts/Kiebel_postdoc_A9_3FP_experimenter_eng_161120_w503.pdf?lang=en) 
 
-[**Postdoctoral position in federated deep learning for stroke imaging**](https://recrutement.chuv.ch/vacancy/postdoctoral-position-in-federated-deep-learning-for-stroke-imaging-246985.html). The three-year Advanced Stroke Analytics Platform (ASAP) project aims at developing novel deep learning techniques to drive forward the utility and use of magnetic resonance imaging for acute stroke. Application deadline: 22.12.2020
+PhD in [**multimodal imaging to understand neurodevelopmental vulnerability for developing schizophrenia**](https://www.unil.ch/ln/files/live/sites/ln/files/shared/jobs/PhD_Eliez_Lab_2021.pdf) in Geneva, Switzerland. Application deadline: 1st January 2021
 
 
 
