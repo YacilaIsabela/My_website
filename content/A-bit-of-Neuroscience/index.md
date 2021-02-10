@@ -14,9 +14,7 @@ layout = "A bit of neuroscience"
 As a neuroscientist, I have special interest in supporting the education in brain sciences.
 Here, you will find the latest academic positions and opportunities in the field of the neurosciences
 
-[**2 research fellowships in Neurosciences**](http://www.eracareers.pt/opportunities/index.aspx?task=global&jobId=130692) at the Institute of Biophysics and Biomedical Engineering of the Faculdade de Ciências da universidade de Lisboa. Deadline: 11.02.2021.
-
-[**2 PhD positions**](http://gp.cbbs.eu/wp-content/uploads/2021/01/PhD_ad_SFB1436_final.pdf) are available from April 1st 2021 in the research groups of Dr. Matthew Betts at the Institute for Cognitive Neurology and Dementia Research (IKND)(http://www.iknd.ovgu.de/en/) at the Otto-von-Guericke University Magdeburg. the goal of the project is to obtain a better understanding of the role of the noradrenergic system in healthy ageing.
+[**A full-time, indivisible position**](https://www.uliege.be/upload/docs/application/pdf/2020-12/21.12.2021_psychologie_et_neurosciences_cognitives_site_en.pdf)in the field of Cognitive Psychology and Neurosciences within the Department of Psychology. This post includes teaching, research and services to the Community. The position can become permanent after 4 years. Application deadline: 28.02.21
 
 [**Post-doctoral position/tenure-track potential/neuroimaging**](https://psychologia.uj.edu.pl/en_GB/nauka/laboratoria/Mind-and-Environment-Center) of the impact of air pollution on school age children. Contact [**Prof. Marcin Szwed**](http://www.szwedlab.psychologia.uj.edu.pl/en_GB/contact) for more details. Deadline for application:26.02.2021.
 
