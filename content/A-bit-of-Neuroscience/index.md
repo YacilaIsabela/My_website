@@ -14,6 +14,7 @@ layout = "A bit of neuroscience"
 As a neuroscientist, I have special interest in supporting the education in brain sciences.
 Here, you will find the latest academic positions and opportunities in the field of the neurosciences
 
+Master or PhD candidate needed urgently at the University of Fribourg (Human-IST) on the topic of [**“Smart glasses and augmented reality for rehabilitation of visually impaired individuals.”**](https://mcs.unibnf.ch/jobs/master-or-phd-candidate-needed-urgently-at-the-university-of-fribourg-human-ist-on-the-topic-of-smart-glasses-and-augmented-reality-for-rehabilitation-of-visually-impaired-individuals/). We are seeking to recruit a PhD student for a funded position in the areas of Human-Computer Interaction, Assistive Technologies and Psychology at the University of Fribourg, Switzerland. The successful candidate is expected to start around May or June 2021 for a commitment over a period of 4 years. Approximate gross salary: 60’000 CHF/year
 
 Check the [**PhD and postdoctoral positions**](https://www.psy.uni-hamburg.de/en/arbeitsbereiche/allgemeine-psychologie/aktuelles/ausschreibung-allg-psy-03-2021.html) associated with the professorship for General Psychology in Hamburg, Germany. Its research foci comprise learning and decision making, cognitive modelling, eye tracking, and the use of neuroscientific methods (fMRI, EEG).
 
