@@ -20,7 +20,7 @@ Here, you will find the latest academic positions and opportunities in the field
 
 [**Tenure-track assistant professor in the cognitive neuroscience of language**](https://evolvinglanguage.ch/grant-possibilities-for-researchers/). The Faculty of psychology and education of the University of Geneva has an opening for a Tenure-track assistant professor in the cognitive neuroscience of language. Applications should be submitted exclusively on-line on the University website (deadline: May, 19). With an outlook toward parity, women are encouraged to apply.
 
-[**Dr Ziaei group at the Kavli Institute for System Neuroscience**](https://www.jobbnorge.no/en/available-jobs/job/200211/postdoctoral-fellow-2-3-years-100-position-in-ziaei-group) is seeking a motivated and enthusiastic post-doctoral fellow to join the lab in Fall 2021 to help better understand the emotional and brain changes that occur in aging. Deadline for application:40.04.2021
+[**Dr Ziaei group at the Kavli Institute for System Neuroscience**](https://www.jobbnorge.no/en/available-jobs/job/200211/postdoctoral-fellow-2-3-years-100-position-in-ziaei-group) is seeking a motivated and enthusiastic post-doctoral fellow to join the lab in Fall 2021 to help better understand the emotional and brain changes that occur in aging. Deadline for application:30.04.2021
 
 
 
