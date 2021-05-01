@@ -14,15 +14,13 @@ layout = "A bit of neuroscience"
 As a neuroscientist, I have special interest in supporting the education in brain sciences.
 Here, you will find the latest academic positions and opportunities in the field of the neurosciences
 
-[**The Brain Dynamics and Imaging Methods Group within the Section of Systems Neuroscience**](https://www.uniklinikum-dresden.de/de/jobs-und-karriere/stellenangebote/wissenschaft/phd-student-f-m-x-20) is looking for a highly motivated PhD student with a background in psychology, neuroscience, computer science or mathematics and a keen interest in applying machine learning methods to brain imaging data and neuroscientific questions. Application deadline: 30.04.2021
-
-[**Doctoral (PhD) student position**](https://kidoktorand.varbi.com/en/what:job/jobID:391319/) in the Research school in health science - Brain activity during motor-cognitive performance at Karolinska Institute, Sweden.Apply until 30.04.2021
+[**Call for application of a PhD student**](https://amubox.univ-amu.fr/s/zSxwN9Besnz7oJC#pdfviewer) to take part in the project: Effort and prosocial behaviour in adolescence: how does it relate to brain development? at the university of Aix-MArseille. The project is jointly led by the Laboratories de neurosciences cognitives (LNC) and Aix-Marseille School of Economics (AMSE). Applications should be sent before May 14th.
 
 [**Tenure-track assistant professor in the cognitive neuroscience of language**](https://evolvinglanguage.ch/grant-possibilities-for-researchers/). The Faculty of psychology and education of the University of Geneva has an opening for a Tenure-track assistant professor in the cognitive neuroscience of language. Applications should be submitted exclusively on-line on the University website (deadline: May, 19). With an outlook toward parity, women are encouraged to apply.
 
-[**Dr Ziaei group at the Kavli Institute for System Neuroscience**](https://www.jobbnorge.no/en/available-jobs/job/200211/postdoctoral-fellow-2-3-years-100-position-in-ziaei-group) is seeking a motivated and enthusiastic post-doctoral fellow to join the lab in Fall 2021 to help better understand the emotional and brain changes that occur in aging. Deadline for application:30.04.2021
+Applications are invited for a three-year PhD position in cognitive neuroscience in Lyon, France, to collect and analyze behavioral and fMRI data on language processing. The PhD candidate will be part of the exciting new project AnchorFL (Anchoring Foreign Language Learning), funded by the ANR (Agence Nationale pour la Recherche), and led by Drs Alice Roy and Véronique Boulenger from the “Dynamique du Langage” laboratory (CNRS), in close collaboration with Dr Claudio Brozzoli from the Lyon Neuroscience Research Centre (INSERM). Cover letter with statement of research interests and a CV should be sent by email to alice.roy@cnrs.fr and veronique.boulenger@cnrs.fr, with cc to claudio.brozzoli@inserm.fr. 
 
-
+Part-time postdoc position in Geneva to work on the project **The disrupted bodily self of neurological patients**. A previous experience with research projects focused on neurological patients and EEG methods is required. If you are interested, please e-mail your motivation letter, your CV, and the contact details of one referee to: roberta.ronchi@unige.ch.
 
 
 
