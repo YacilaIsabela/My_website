@@ -15,7 +15,7 @@ Como neurocient&iacute;fica, tengo especial inter&eacute;s en apoyar la educaci&
 Ac&aacute; les ofrezco las &uacute;ltimas oportunidades acad&eacute;micas en neurociencias.
 
 
-[**Postdoctoral position available to work on MRI pipelines**] (https://miplab.epfl.ch/index.php/miplife/jobs) at the EPFL and University of Geneva. Qualified candidates should send cover letter, CV (including publications and references), as well as a link to short 2-minutes video introducing yourself, to Prof. Dimitri Van De Ville.
+[**Postdoctoral position available to work on MRI pipelines**](https://miplab.epfl.ch/index.php/miplife/jobs) at the EPFL and University of Geneva. Qualified candidates should send cover letter, CV (including publications and references), as well as a link to short 2-minutes video introducing yourself, to Prof. Dimitri Van De Ville.
 
 Part-time postdoc position in Geneva to work on the project **The disrupted bodily self of neurological patients**. A previous experience with research projects focused on neurological patients and EEG methods is required. If you are interested, please e-mail your motivation letter, your CV, and the contact details of one referee to: roberta.ronchi@unige.ch.
 
