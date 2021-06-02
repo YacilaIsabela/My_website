@@ -8,9 +8,13 @@ layout = "News"
 
 ## &Uacute;ltimas convocatorias y novedades
 
-Get started with our virtual events on how to do your PhD in the German Southwest.
-This virtual event series is free of charge. [**Registration is required**](https://www.bw-i.de/veranstaltungen/event/your-phd-in-germany-your-first-steps-in-baden-wuerttemberg?sap-outbound-id=402F95FC996BCF68C3CB9540C6DE910674CF75F3&utm_source=hybris-campaign&utm_medium=email&utm_campaign=000_VAN6575_0000012954_NatureCareers-Newsletter-A%2FB-07May2021&utm_content=EN_internal_26024_20210506). Session are from May17th to May 20th.
- 
+**Sesi&oacute;n virtual Q&A: Convocatorias EPOS y Helmut Schmidt (PPGG)** via [Zoom](https://www.daad.co/es/event/sesion-virtual-qa-convocatorias-epos-y-helmut-schmidt-ppgg/) el d&iacute;a 22.06.2021
+
+Convocatoria del programa de becas completas del DAAD Helmut Schmidt (PPGG). [**El DAAD financia estudios de Maestría en Pol&iacute;tica P&uacute;blica y Buen Gobierno**](https://www.daad.co/files/2021/05/PPGG_Guia_CONVOCATORIA_2021.pdf), en universidades alemanas.  El objetivo fundamental es apoyar a futuros l&iacute;deres de Colombia, Ecuador, Per&uacute; y Venezuela, para que adquieran las herramientas que les permita promover la democracia y la justicia social en sus pa&iacute;ses de origen.
+
+La convocatoria de becas EPOS está abierta. Este programa de becas completas del DAAD, denominado  Development-Related Postgraduate Courses (EPOS), ofrece a profesionales de Colombia, Ecuador, Per&uacute; y Venezuela, la posibilidad de realizar estudios de Maestr&iacute;a o de Doctorado en universidades alemanas. En la [**convocatoria de becas EPOS**](https://www2.daad.de/medien/der-daad/medien-publikationen/publikationen-pdfs/2019_epos-broschuere-21-22.pdf) se incluye una lista espec&iacute;fica de programas acad&eacute;micos en diversas &aacute;reas del conocimiento, en universidades ya seleccionadas. ¡Este programa de becas &uacute;nicamente aplica para las Maestr&iacute;as y Doctorados indicados en la convocatoria!
+
+
 Apply until the 15th of June to the [**Biozentrum PhD Fellowships**](https://jobs.unibas.ch/offene-stellen/biozentrum-phd-fellowships-summer-call-2021/ae846829-6e0d-4f39-97c6-e6883672f4c7) of the university of Basel.
 
 
