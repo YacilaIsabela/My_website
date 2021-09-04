@@ -8,8 +8,7 @@ layout = "News"
 
 ## &Uacute;ltimas convocatorias y novedades
 
-
-[*Ya estancia abiertas las convocatorias del DAAD para estudios de m&aacute;ster, doctorado o estancias cortas de investigaci&oacute;n*](https://www.daad.co/es/quienes-somos/eventos-y-charlas-programadas/). Incr&iacute;bete y participa del 03 al 31 de agosto. Hay sesiones virtuales para today las carreras.
+Est&aacute; abierta la convocatoria UNILEAD, la cual brinda una capacitación a personas que est&eacute;n vinculadas a &aacute;reas administrativas de la educaci&oacute;n superior universitaria de los pa&iacite;ses en v&iacuteas de desarrollo. [*UNILEAD (University Leadership and Management Training Programme*)](https://www.daad.co/files/2021/09/Call-UNILEAD-2022.pdf?fbclid=IwAR3thhT1be256fQ0dRnYquxa8NC5hnBHCGgrmEErZVW6g7NyTwzkLn3mVLY) hace parte del programa DIES - Dialogue on Innovative Higher Education Strategies, el cual es coordinado conjuntamente por el DAAD y la Conferencia de Rectores de Alemania (HRK). La capacitaci&oacute;n ser&aacute; entre enero y septiembre de 2022, con fases virtuales desde el pa&iacute;s de origen y fases presenciales en Alemania en la Universidad de Oldenburg. Fecha l&iacute;mite de postulaci&iacute;n: 11 de octubre, 2021.
 
 ## CONVOCATORIAS DEL DAAD
 

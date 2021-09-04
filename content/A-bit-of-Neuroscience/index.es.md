@@ -14,17 +14,20 @@ layout = "A bit of neuroscience"
 Como neurocient&iacute;fica, tengo especial inter&eacute;s en apoyar la educaci&oacute;n en ciencias del cerebro. 
 Ac&aacute; les ofrezco las &uacute;ltimas oportunidades acad&eacute;micas en neurociencias.
 
+S&oacute;lo en ingl&eacute;s!
+
+[*Vima-Swiss is looking for a Behaviour Research Manager / Psychologist*](https://vima-swiss.com/careers/). Vima is an AI technology company based in Lausanne & Martigny. Our mission is to serve the people analytics market and elevate the candidate and employee experience with actionable insights derived from behavioural & affectivity data. Check the requirements and in case the description matches your profile, send your application to: ghislaine@vima.swiss
+
+Check the current [*PhD and post-doc opportunities at the Institute of Neurosciences, University of Barcelona*](http://www.neurociencies.ub.edu/vacancies/)
+
+[*Postdoctoral Contract at Fundación HM Hospitales*](https://www.controlandhabit.com/positions).We are seeking for highly motivated post-doctoral researcher in the field of Cognitive Neuroscience to develop a project in the neural basis of cognitive control and impulsivity. We offer incorporation to our team via [Postdoctoral Junior Leader Retaining Fellowship](https://fundacionlacaixa.org/en/postdoctoral-fellowships-junior-leader-retaining). If you are interested and fulfil the requirements, send your CV and contact details of 2 previous references to iobeso.hmcinac [at] hmhospitales.com no later than September 17th 2021 indicating in the subject: Postdoc Retaining
+
 [*Junior Research Group Leader (100%, E 14 TV-L 1) or Postdoctoral Research Fellow (100%, E 13 TV-L 1) on Cognitive and Affective Neuroscience for 3 years (+ possible 2 year extension) (m/f/d)*](https://uni-tuebingen.de/universitaet/stellenangebote/newsfullview-stellenangebote/article/junior-research-group-leader-100-e-14-tv-l-or-postdoctoral-research-fellow-100-e-13-tv-l-on-cognitive-and-affective-neuroscience-m-f-d/). Initial deadline is September 30, 2021 but we continue to seek candidates until the position is filled by highly qualified candidates (i.e. late application is acceptable until we make a final decision). 
 
-[*An exciting postdoc position is available within the central lab of Prof. Dr. Nikolaos Koutsouleris at LMU in Munich*](https://www.stepstone.de/stellenangebote--Postdoc-m-w-d-in-der-Biomarkerevaluation-zur-Unterstuetzung-der-klinischen-Translation-fuer-Schizophrenie-Muenchen-Klinikum-der-Universitaet-Muenchen--7374088-inline.html?cid=B2C_CLC_SYS8_Listing). This position aims to build and translate machine learning tools into clinical practice, specifically focussing on psychosis risk syndromes on a new project. It will involve the integration of multiple datatypes, especially multi-OMICS data. Good communication skills in written and spoken German are required. The position is for one year with the possibility of extension.
+[*Postdoctoral fellow 3-years 100% position, Norwegian University of Science and Technology*](https://www.jobbnorge.no/en/available-jobs/job/211111/postdoctoral-fellow-3-years-100-position-in-ziaei-group). Dr Ziaei group at the Kavli Institute for System Neuroscience (KISN) explores the structural and functional neural networks underlying social and emotional processing in aging. We are seeking a motivated and enthusiastic post-doctoral fellow to join the lab in Fall 2021 to help better understand the emotional and brain changes that occur in aging.
 
-[*Applications are invited for a 3-4 year PhD fellowship available at the Department of Psychology, University of Oslo, Norway*](https://www.jobbnorge.no/en/available-jobs/job/195915/phd-research-fellow). The successful applicant will join the lab of Prof. Sascha Frühholz, which is part of the Section for Cognitive and Clinical Neuroscience. Our lab studies the neural foundations of emotional processing from various social and environmental signals using a variety of neuroscientific methods (fMRI, EEG, intracranial recordings, psychoacoustic experiments, etc.)
-
-
-
-
-
-
+[The Multimodal Neuroimaging Group](https://mmni.de/research/) in Cologne, Germany invites applications for a *Postdoctoral Fellowship in the field of Neuroimaging in Movement Disorders*. 
+The position is fully funded for 3 years starting January 2022. The successful candidate support and, coordinate the collection and analysis of data in multiple research projects involving molecular, structural and functional brain imaging (e.g., Tau PET or 7T), hold scientific presentations at seminars and conferences, writing scientific publications and reports, contributing to administrative and organizational tasks, and instructing and guiding students. Submit your letter of motivation, CV, contact details of two to four potential referees, a recent list of publications as one single PDF document via email to info@mmni.de. Application deadline: September 30, 2021.
 
 
 
