@@ -16,11 +16,10 @@ Ac&aacute; les ofrezco las &uacute;ltimas oportunidades acad&eacute;micas en neu
 
 S&oacute;lo en ingl&eacute;s!
 
+
+The Fondation Campus Biotech Geneva (FCBG) is opening 1-2 MSc intern positions in 2022 in its Virtual Reality and Robotics (VR & Robotics) Facility of the Human Neuroscience Platform (HNP). Researchers who have a project requiring VR, Robotics developments or 3D simulation that may be of interest for the larger community are encouraged to apply. The interns will join the VR & Robotics Facility engineering team of the HNP, while working under the scientific supervision of the PI promoting the research project and the manager or the engineers of the facility. Proposals will be analysed and selected by the VR Facility team and the VR Faculty Advisors Profs D. Bavelier, O. Blanke and S. Micera. Please send your application before October 3rd 2021 (contact vr@fcbg.ch for application details).
+
 [*Vima-Swiss is looking for a Behaviour Research Manager / Psychologist*](https://vima-swiss.com/careers/). Vima is an AI technology company based in Lausanne & Martigny. Our mission is to serve the people analytics market and elevate the candidate and employee experience with actionable insights derived from behavioural & affectivity data. Check the requirements and in case the description matches your profile, send your application to: ghislaine@vima.swiss
-
-Check the current [*PhD and post-doc opportunities at the Institute of Neurosciences, University of Barcelona*](http://www.neurociencies.ub.edu/vacancies/)
-
-[*Postdoctoral Contract at Fundación HM Hospitales*](https://www.controlandhabit.com/positions).We are seeking for highly motivated post-doctoral researcher in the field of Cognitive Neuroscience to develop a project in the neural basis of cognitive control and impulsivity. We offer incorporation to our team via [Postdoctoral Junior Leader Retaining Fellowship](https://fundacionlacaixa.org/en/postdoctoral-fellowships-junior-leader-retaining). If you are interested and fulfil the requirements, send your CV and contact details of 2 previous references to iobeso.hmcinac [at] hmhospitales.com no later than September 17th 2021 indicating in the subject: Postdoc Retaining
 
 [*Junior Research Group Leader (100%, E 14 TV-L 1) or Postdoctoral Research Fellow (100%, E 13 TV-L 1) on Cognitive and Affective Neuroscience for 3 years (+ possible 2 year extension) (m/f/d)*](https://uni-tuebingen.de/universitaet/stellenangebote/newsfullview-stellenangebote/article/junior-research-group-leader-100-e-14-tv-l-or-postdoctoral-research-fellow-100-e-13-tv-l-on-cognitive-and-affective-neuroscience-m-f-d/). Initial deadline is September 30, 2021 but we continue to seek candidates until the position is filled by highly qualified candidates (i.e. late application is acceptable until we make a final decision). 
 
