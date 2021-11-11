@@ -14,6 +14,7 @@ layout = "A bit of neuroscience"
 As a neuroscientist, I have special interest in supporting the education in brain sciences.
 Here, you will find the latest academic positions and opportunities in the field of neuroscience
 
+Applications are invited for a [*postdoctoral position to study social decision making using fMRI in healthy subjects and intracranial recordings in patients with epilepsy*](https://dreherteam.wixsite.com/neuroeconomics/job). This job is available immediately, for 2 or 3 years. Salary will be commensurate with experience and qualifications according to CNRS scales. Candidates should send their CV, statement of research interests, representative publications, and contact information of two references to Jean-Claude Dreher, email: dreher@isc.cnrs.fr. 
 
 The Moral & Social Brain Lab in Ghent, Belgium is recruiting a [*Ph.D. Student or a Postdoctoral researcher under the conditions of international mobility*](https://moralsocialbrain.com/current-vacancies/). The successful applicant will work on a project that aims to uncover the neuro-cognitive processes that prevent an individual from being coerced into causing pain to others. The applicant will use a novel experimental approach, which is an actualized and ethical version of the famous Stanley Milgram’s studies, to answer this question. The applicant will use behavioral, electrophysiology, neuromodulation and neuroimaging measurements. The general goal will be to understand why some individuals are more likely to stand up against immoral orders than others
 
