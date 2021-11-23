@@ -15,7 +15,7 @@ layout = "news"
 2. Presenting ICP Connect: a new VLIR-UOS framework for ICPs. This aims to integrate global perspectives in a systematic way and strengthen partner countries and network dimensions into existing [Master’s programmes](https://www.vliruos.be/en/ongoing_calls/1523).
 
 AVAILABLE ONLY IN SPANISH
+[*Convocatoria para viajes de estudio en Alemania para grupos de estudiantes universitarios*](https://www.daad.co/files/2021/10/GUIA_convocatoria_VIAJES_ESTUDIOS.pdf). Este programa se dirige a grupos de 10-15 estudiantes a partir del segundo semestre universitario de cualquier carrera, con matr&iacute;cula completa en una universidad de Colombia, Ecuador Per&acute; o Venezuela. El programa apoya estancias de estudios de 7 a 2 d&iacute;as, bajo la coordinaci&oacute;n de un profesor universitario. El programa include manutenci&oacute;n, pasajes a&eacute;reos, seguros completos. 
 
 [*Eventos y Charlas programadas por el DAAD Colombia para estudiar y trabajar en Alemania*](https://www.daad.co/es/quienes-somos/eventos-y-charlas-programadas/). Dirigidos a estudiantes y profesionales de Per&uacute;, Colombia, Venezuela y Ecuador.
 
-Tienes mucho talento y quieres estudiar en las mejores universidades de Estados Unidos? Entonces asiste a las charlas de [*Beca Cometa*](https://www.somoscometa.com/landing) este  19 y 20 de noviembre. Inscr&iacute;bete ya!
