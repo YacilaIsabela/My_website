@@ -8,6 +8,8 @@ layout = "News"
 
 ## &Uacute;ltimas convocatorias y novedades
 
+[*DIES Training Courses offer modular, practice-oriented training opportunities for management-level professionals from universities in developing countries*](https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/dies-training-courses/). DIES Training Courses offer modular, practice-oriented training opportunities for management-level professionals from universities in developing countries. There are several openings for the 2022. Apply now!
+
 [*Convocatoria para viajes de estudio en Alemania para grupos de estudiantes universitarios*](https://www.daad.co/files/2021/10/GUIA_convocatoria_VIAJES_ESTUDIOS.pdf). Este programa se dirige a grupos de 10-15 estudiantes a partir del segundo semestre universitario de cualquier carrera, con matr&iacute;cula completa en una universidad de Colombia, Ecuador Per&acute; o Venezuela. El programa apoya estancias de estudios de 7 a 2 d&iacute;as, bajo la coordinaci&oacute;n de un profesor universitario. El programa include manutenci&oacute;n, pasajes a&eacute;reos, seguros completos. 
 
 [*Scholarships  VLIR-UOS*](https://www.vliruos.be/en/scholarships/6). We award scholarships to students and professionals from a number of [countries](https://www.vliruos.be/en/countries/96) to study in Flanders. 
