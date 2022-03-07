@@ -16,7 +16,7 @@ Ac&aacute; les ofrezco las &uacute;ltimas oportunidades acad&eacute;micas en neu
 
 S&oacute;lo en ingl&eacute;s
 
-Postdoctoral researcher in ultra-high field MRI. As a full-time MR physicist, you will join a dedicated research team that will be developing new acquisition/reconstruction/processing methodologies for the 7T MRI. Topics of interest may include coil design and optimization, sequence development, ultrahigh-resolution imaging (e.g., laminar fMRI), brain and spinal-cord imaging, advanced applications in cognitive and clinical neurosciences. Please send your CV, two references and a motivation letter to Dimitri.VanDeVille@epfl.ch
+[*Postdoctoral researcher in ultra-high field MRI*](https://cibm.ch/wp-content/uploads/CIBM-MRI-EPFL-Postdoc-position-7T.pdf). As a full-time MR physicist, you will join a dedicated research team that will be developing new acquisition/reconstruction/processing methodologies for the 7T MRI. Topics of interest may include coil design and optimization, sequence development, ultrahigh-resolution imaging (e.g., laminar fMRI), brain and spinal-cord imaging, advanced applications in cognitive and clinical neurosciences. Please send your CV, two references and a motivation letter to Dimitri.VanDeVille@epfl.ch
 
 
 
